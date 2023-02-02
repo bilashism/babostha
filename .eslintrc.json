@@ -25,6 +25,7 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
+  "eslint.workingDirectories": ["./server", "./client"],
   "overrides": [
     {
       "files": ["src/**/*.{js,jsx}"],
